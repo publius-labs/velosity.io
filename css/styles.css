@@ -493,7 +493,7 @@ button, [type="button"], [type="reset"] {
 
 .w-form-done {
   text-align: center;
-  background-color: #ddd;
+  background-color: #f8f6f2;
   padding: 20px;
   display: none;
 }
@@ -4144,7 +4144,7 @@ figcaption {
 }
 
 .form-success {
-  background-color: var(--mid-tone);
+  background-color: #f8f6f2;
   border-radius: 12px;
 }
 
