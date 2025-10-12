@@ -3690,8 +3690,9 @@ figcaption {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 0;
-  padding-left: 24px;
+  /*padding-left: 24px;
   padding-right: 24px;
+  */
   display: flex;
   position: relative;
 }
@@ -7284,6 +7285,9 @@ figcaption {
   }
 
   .container---main {
+  /*  grid-column-gap: 24px;
+    grid-row-gap: 24px;
+  */
     grid-column-gap: 24px;
     grid-row-gap: 24px;
     max-width: 732px;
